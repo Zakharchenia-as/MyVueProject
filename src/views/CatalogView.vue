@@ -1,5 +1,5 @@
 <template>
-    <div class="content-window  p-3 mb-2">
+    <div class="content-window p-3 mb-2" style="justify-content: center">
         <div class ="block-container">
             <a>Евангелион</a>
             <div>
