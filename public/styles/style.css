@@ -12,6 +12,7 @@
 .img-block-content{
     flex-wrap: wrap;
     display: flex;
+    width: 100%;
 }
 
 .header-text{
@@ -33,7 +34,7 @@
 
 .ref-icon{
     max-width: 70px;
-    max-height: 7   0px;
+    max-height: 70px;
 }
 
 .block-container{
